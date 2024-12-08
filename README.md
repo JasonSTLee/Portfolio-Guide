@@ -14,4 +14,11 @@ I split between Python and SQL & Tableau projects because on Python I extracted,
 | Project Link | Tools | Description |
 |:-----------|:------------:|------------:|
 | [Greed-Flation](https://github.com/JasonSTLee/Greed-Flation) | Python, VS Code, Jupyter Notebook, Alpha Vantage API | Analyzed key financial metrics of top grocery retail companies assess their involvement in 'Greed-Flation' |
-| [Greed-Flation](https://github.com/JasonSTLee/Greed-Flation) | Python, VS Code, Jupyter Notebook, Alpha Vantage API | Analyzed key financial metrics of top grocery retail companies assess their involvement in 'Greed-Flation' |
+| [Retirement-Analysis]([https://github.com/JasonSTLee/Greed-Flation](https://github.com/JasonSTLee/Retirement-Analysis)) | Python, VS Code, Jupyter Notebook, Yahoo Finance, SQL, Tableau | A passion project where I analyzed ETFs and their performance to pick for my retirement / 401k plan |
+
+### SQL & Tableau
+
+| Project Link | Tools | Description |
+|:-----------|:------------:|------------:|
+| [Taxi]([https://github.com/JasonSTLee/Greed-Flation](https://github.com/JasonSTLee/Taxi-Project)) | PostgreSQL, Tableau | Stratascratch's projects with my own twists and additional questions |
+| [Opioid-Analyssi]([https://github.com/JasonSTLee/Greed-Flation](https://github.com/JasonSTLee/Retirement-Analysis)) | PostgreSQL, Tableau | A project close to my heart. Analysis of all opioid transactions between 2006 - 2019 |
