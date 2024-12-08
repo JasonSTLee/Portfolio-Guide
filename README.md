@@ -14,12 +14,12 @@ I split between Python and SQL & Tableau projects because on Python I extracted,
 | Project Link | Tools | Description |
 |:-----------|:------------:|------------:|
 | [Greed-Flation](https://github.com/JasonSTLee/Greed-Flation) | Python, VS Code, Jupyter Notebook, Alpha Vantage API | Analyzed key financial metrics of top grocery retail companies assess their involvement in 'Greed-Flation' |
-| [Retirement-Analysis]([https://github.com/JasonSTLee/Greed-Flation](https://github.com/JasonSTLee/Retirement-Analysis)) | Python, VS Code, Jupyter Notebook, Yahoo Finance, SQL, Dashboard [Link](https://public.tableau.com/app/profile/jason.lee2654/viz/ETFResearchProject/Dashboard1) | A passion project where I analyzed ETFs and their performance to pick for my retirement / 401k plan |
+| [Retirement-Analysis]([https://github.com/JasonSTLee/Greed-Flation](https://github.com/JasonSTLee/Retirement-Analysis)) | Python, VS Code, Jupyter Notebook, Yahoo Finance, SQL, [Dashboard Link](https://public.tableau.com/app/profile/jason.lee2654/viz/ETFResearchProject/Dashboard1) | A passion project where I analyzed ETFs and their performance to pick for my retirement / 401k plan |
 
 
 ### SQL & Tableau
 
 | Project Link | Dashboard Link | Description |
 |:-----------|:------------:|------------:|
-| [Taxi]([https://github.com/JasonSTLee/Greed-Flation](https://github.com/JasonSTLee/Taxi-Project)) | [Link]([https://public.tableau.com/app/profile/jason.lee2654/viz/ETFResearchProject/Dashboard1](https://public.tableau.com/app/profile/jason.lee2654/viz/Taxi_projectDistanceHistogram/final_dashboard)) | Stratascratch's projects with my own twists and additional questions |
-| [Opioid-Analyssi]([https://github.com/JasonSTLee/Greed-Flation](https://github.com/JasonSTLee/Retirement-Analysis)) | [Link](https://public.tableau.com/app/profile/jason.lee2654/viz/OpioidAnalysis_17184034804720/opioiddashboard-v4) | A project close to my heart. Analysis of all opioid transactions between 2006 - 2019 |
+| [Taxi](https://github.com/JasonSTLee/Taxi-Project) | [Link]([https://public.tableau.com/app/profile/jason.lee2654/viz/ETFResearchProject/Dashboard1](https://public.tableau.com/app/profile/jason.lee2654/viz/Taxi_projectDistanceHistogram/final_dashboard)) | Stratascratch's projects with my own twists and additional questions |
+| [Opioid-Analyssi](https://github.com/JasonSTLee/Opioid-Project) | [Link](https://public.tableau.com/app/profile/jason.lee2654/viz/OpioidAnalysis_17184034804720/opioiddashboard-v4) | A project close to my heart. Analysis of all opioid transactions between 2006 - 2019 |
