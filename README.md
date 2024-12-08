@@ -22,4 +22,4 @@ I split between Python and SQL & Tableau projects because on Python I extracted,
 | Project Link | Dashboard Link | Description |
 |:-----------|:------------:|------------:|
 | [Taxi](https://github.com/JasonSTLee/Taxi-Project) | [Link](https://public.tableau.com/app/profile/jason.lee2654/viz/Taxi_projectDistanceHistogram/final_dashboard) | Stratascratch's projects with my own twists and additional questions |
-| [Opioid-Analyssi](https://github.com/JasonSTLee/Opioid-Project) | [Link](https://public.tableau.com/app/profile/jason.lee2654/viz/OpioidAnalysis_17184034804720/opioiddashboard-v4) | A project close to my heart. Analysis of all opioid transactions between 2006 - 2019 |
+| [Opioid-Analysis](https://github.com/JasonSTLee/Opioid-Project) | [Link](https://public.tableau.com/app/profile/jason.lee2654/viz/OpioidAnalysis_17184034804720/opioiddashboard-v4) | A project close to my heart. Analysis of all opioid transactions between 2006 - 2019 |
