@@ -14,3 +14,4 @@ I split between Python and SQL & Tableau projects because on Python I extracted,
 | Project Link | Tools | Description |
 |:-----------|:------------:|------------:|
 | [Greed-Flation](https://github.com/JasonSTLee/Greed-Flation) | Python, VS Code, Jupyter Notebook, Alpha Vantage API | Analyzed key financial metrics of top grocery retail companies assess their involvement in 'Greed-Flation' |
+| [Greed-Flation](https://github.com/JasonSTLee/Greed-Flation) | Python, VS Code, Jupyter Notebook, Alpha Vantage API | Analyzed key financial metrics of top grocery retail companies assess their involvement in 'Greed-Flation' |
