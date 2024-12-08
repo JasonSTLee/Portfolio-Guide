@@ -1,12 +1,8 @@
 # 🗺️ Jason's Portfolio
 
----
-
 Welcome to my data portfolio! 
 
 ## 📚 Table of Contents
-
----
 
 - Python Related Projects
 - SQL & Tableau Projects
